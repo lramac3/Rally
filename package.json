@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trozio/Project-two.git"
+    "url": "git+https://github.com/lramac3/Rally.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/trozio/Project-two/issues"
+    "url": "https://github.com/lramac3/Rally/issues"
   },
-  "homepage": "https://github.com/trozio/Project-two#readme"
+  "homepage": "https://github.com/lramac3/Rally#readme"
 }
