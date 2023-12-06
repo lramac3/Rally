@@ -12,9 +12,9 @@
     "express": "^4.16.4",
     "mysql2": "^1.6.5",
     "sequelize": "^5.15.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^3.0.5",
     "socket.io-client": "^2.2.0",
-    "snyk": "^1.169.2"
+    "snyk": "^1.230.7"
   },
   "devDependencies": {},
   "scripts": {
